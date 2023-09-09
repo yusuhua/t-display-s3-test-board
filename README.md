@@ -46,3 +46,7 @@ SD卡部分：
 | moso    | 13    |
 | cs      | 10    |
 
+## 参考资料
+除了JoyCon按键参考了视频UP主的设计之外，无源蜂鸣器参考了MLT-7525的规格书中的设计，SD卡参考了[微雪官网的设计](https://www.waveshare.net/w/upload/8/83/Micro-SD-Storage-Board-Schematic.pdf)。  
+在这里要给微雪电子点个赞，他们设计的开发板都可以在官网找到对应的原理图，对刚入门的小白来说很有参考价值。
+
